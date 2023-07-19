@@ -9,9 +9,11 @@ This repo pertains to the tutorial:
 ```shell
 git clone git@github.com:a-ridley/hedera-smart-contract-testing-with-foundry.git
 ```
+## Usage
 
 1. Execute ```npm i```
-2. Execute ```node index.js``` to start the project
+2. Add a `.env` file in the root directory with your Hedera Portal Account Credentials
+3. Execute ```node index.js``` to start the project
 
 ## Prerequisites
 
