@@ -7,7 +7,7 @@ This repo pertains to the tutorial:
 [How to Set Up Foundry To  Test Smart Contracts On Hedera](https://hedera.com/blog/how-to-set-up-foundry-to-test-smart-contracts-on-hedera)
 
 ```shell
-git clone git@github.com:a-ridley/hedera-smart-contract-testing-with-foundry.git
+git clone git@github.com:a-ridley/hedera-smart-contract-testing-with-foundry-JS.git
 ```
 ## Usage
 
