@@ -10,6 +10,9 @@ This repo pertains to the tutorial:
 git clone git@github.com:a-ridley/hedera-smart-contract-testing-with-foundry.git
 ```
 
+1. Execute ```npm i```
+2. Execute ```node index.js``` to start the project
+
 ## Prerequisites
 
 ### Hedera Testnet account
